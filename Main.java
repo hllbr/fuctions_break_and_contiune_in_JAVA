@@ -81,7 +81,7 @@ public class Main {
              int c = 0;
         while(c<20){
             if(c ==5 || c ==8){
-                continue;// bbu şekilde bırakırsak döngü sıkışır ve tamamalanamaz
+                continue;// bu şekilde bırakırsak döngü sıkışır ve tamamlanamaz
             }
             System.out.println("c = "+c);
             c++;
